@@ -1,10 +1,7 @@
 # 00-NameGenerator
 
 To see a video of the program on YouTube :
-https://www.youtube.com/watch?v=eniGqMfXPfE
-
-To try this program you can download it here  ( Windows x86 ) :
-https://drive.google.com/open?id=0B6-FXlVjTCOTaFZXQUR6cHNJb1E
+https://www.youtube.com/watch?v=eniGqMfXPfE&index=1&list=PLNhHJGjZEVWTmN39iCLyYCH_OrYOScJrC
 
 ---------
 Me : https://www.facebook.com/Ibrahiim.Pasha
